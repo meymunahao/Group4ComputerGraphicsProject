@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (SDL_SceneCombo\x64\Debug\) contains files shared from another project (Muna's2DScene.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  test.cpp
+  SDL_Template.vcxproj -> C:\Users\monaj\Documents\Coding\ComputerGraphics\(1)GraphicsProjectCA3\SDL_SceneCombo\x64\Debug\SDL_SceneCombo.exe
